@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    src: url('../fonts/Montserrat-Bold.ttf')format('truetype');
+}
+@font-face{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    src: url('../fonts/Montserrat-SemiBold.ttf')format('truetype');
+}
+@font-face{
+    font-family: 'Prosto One';
+    font-weight: 900;
+    src: url('../fonts/ProstoOne-Regular.ttf')format('truetype');
+}
+
+
